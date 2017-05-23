@@ -1,0 +1,52 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Babel",
+		"Better CoffeeScript",
+		"BHT-BASIC",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPick",
+		"ColorPicker",
+		"CSS3",
+		"Dogs Colour Scheme",
+		"EasyMotion",
+		"Emmet",
+		"ERB Snippets",
+		"ESLint",
+		"FactoryGirl",
+		"GitGutter",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"Jekyll",
+		"JSX",
+		"LiveReload",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Origami",
+		"Package Control",
+		"Print to HTML",
+		"RSpec",
+		"Ruby Completions",
+		"Ruby on Rails snippets",
+		"Ruby Slim",
+		"SCSS",
+		"shoulda-matchers Snippets",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-rubocop",
+		"Themr",
+		"View In Browser"
+	],
+	"repositories":
+	[
+		"https://github.com/bboyheadman/DevNull/"
+	]
+}

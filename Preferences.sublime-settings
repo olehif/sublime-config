@@ -1,0 +1,33 @@
+{
+	"always_show_minimap_viewport": false,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		"tmp",
+		".git"
+	],
+	"font_face": "Inconsolata",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"ColorPick",
+		"JavaScript Completions",
+		"LiveReload",
+		"Origami",
+		"Ruby Completions",
+		"SublimeCodeIntel",
+		"View In Browser"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"material_theme_accent_brba": true,
+	"material_theme_appbar_charcoal": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme-Darker.sublime-theme"
+}
